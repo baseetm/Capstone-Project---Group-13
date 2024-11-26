@@ -1,0 +1,12 @@
+To find: Revenue, MarketingSpend,SalesAmount, Discount, ProfitMargin, Cost
+
+We have :'discount', 'profit', 'quantity', 'sales_amount', 'profit_margin'
+
+Revenue= (quantity * sales_amount) - discount - MarketingSpend
+MarketingSpend= random
+SalesAmount = sales_amount
+Discount = discount
+ProfitMargin = profit_margin
+Cost = SalesAmount - Profit 
+
+Net Revenue = (Quantity Sold * Unit Price) - Discounts - Allowances - Returns
